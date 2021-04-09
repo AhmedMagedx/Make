@@ -3,6 +3,8 @@ Multiple Platforms Makefile
 Author: Ahmed Maged
 
 
+NOTE: the make file i built is in the src folder.
+
 Details: 
 * the goal was to create a build system using the GNU tools, GCC, and GNU Make. 
 * This system compile multiple files, link them together, and create a final output executable for multiple platforms(Now only two). 
